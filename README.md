@@ -41,7 +41,7 @@ Awakeness/
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sm4561/awakeness.git
+   git clone https://github.com/sm4561/Awakeness.git
 
    Open index.html in your browser.
 
@@ -56,7 +56,7 @@ Go to Settings → Pages
 Set branch to main (or master)
 
 Access your live link:
-https://sm4561.github.io/awakeness/
+https://sm4561.github.io/Awakeness/
 
 🧘 Inspirations
 
