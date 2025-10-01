@@ -56,7 +56,7 @@ Go to Settings → Pages
 Set branch to main (or master)
 
 Access your live link:
-https://your-username.github.io/awakeness/
+https://sm4561.github.io/awakeness/
 
 🧘 Inspirations
 
